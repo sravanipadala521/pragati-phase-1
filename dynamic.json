@@ -1,0 +1,49 @@
+{
+	"profile":{
+		"Image":"pic2.jpg",
+		"Name":"sravani",
+		"RollNo":"17A31A0521",
+		"Place":"jaggampeta",
+		"Gmail":"sravanipadala100@gmail.com"
+	},
+	"career":{
+		"Info":"I want to seek a position where i can utilize my knowledge and skills"
+	},
+	"education":[
+		{
+		"Sno":"1.",
+		"Degree":"BTech",
+		"Institute":"Pragati",
+		"Percentage":"95%",
+		"Yop":"2021"
+	    },
+	    {
+	    "Sno":"2.",
+		"Degree":"Intermediate",
+		"Institute":"aditya",
+		"Percentage":"90%",
+		"Yop":"2017"
+	    },
+	    {
+	    "Sno":"3.",
+		"Degree":"SSC",
+		"Institute":"ravindra bharathi",
+		"Percentage":"95%",
+		"Yop":"2016"
+	    }
+	],
+	"languages":[
+		{
+			"Lang":"English"
+		},
+		{
+			"Lang":"Telugu"
+		},
+		{
+			"Lang":"Hindi"
+		},
+		{
+			"Lang":"Tamil"
+		}
+	]
+}
